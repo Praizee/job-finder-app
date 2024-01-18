@@ -1,6 +1,6 @@
 # Job Finder App (React Native)
 
-<a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery Tutorial</b></a>
+<a href="https://www.youtube.com/watch?v=mJ3bGvy0WAY&ab_channel=JavaScriptMastery" target="_blank"><b>JavaScript Mastery Tutorial</b></a>
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
